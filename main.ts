@@ -13,4 +13,4 @@ radio.onReceivedValue(function (name, value) {
         Kitronik_Move_Motor.stop()
     }
 })
-radio.setGroup(255)
+radio.setGroup(251)
