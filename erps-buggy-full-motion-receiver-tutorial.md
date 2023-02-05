@@ -27,7 +27,11 @@ Oh, and don't forget some AA batteries too!
 ### Step 1
 Let's take our existing code, and expand it to be able to cope with the two new 'left' and 'right' commands that we're going
 to be sending from our controller.  
-
+  
+If you're starting from scratch again, make sure you have a radio block to receieve key:value pairs and the 'forwards' and 'backwards' checks.  
+  
+If you need a refresher, check out the hint!  
+  
 Click on the '+' in your if-statement to add 2 more 'else-if' parts, and check if the 'name' variable is "left" or "right" for each one.  
 
 #### ~ tutorialhint
